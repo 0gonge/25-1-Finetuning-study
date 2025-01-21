@@ -10,35 +10,9 @@
 
 
 ## 👥 Members
-| ![sangylee](https://avatars.githubusercontent.com/u/52999093?v=4) | ![sangylee](https://avatars.githubusercontent.com/u/52999093?v=4) | ![sangylee](https://avatars.githubusercontent.com/u/52999093?v=4) | ![sangylee](https://avatars.githubusercontent.com/u/52999093?v=4) | ![sangylee](https://avatars.githubusercontent.com/u/52999093?v=4) |
-|:--:|:--:|:--:|:--:|:--:|
-| [이상윤](https://github.com/falconlee236) | [이상윤](https://github.com/falconlee236) | [이상윤](https://github.com/falconlee236) | [이상윤](https://github.com/falconlee236) | [이상윤](https://github.com/falconlee236) |
-
-
-## 📚 Curriculum
-| 주차               | 날짜      | 내용                             | 주제                       |
-|-------------------|-----------|-------------------------------|-----------------------------|
-| [week2](./week2/) | 11/11     | 1장 관측 가능성의 개념과 방향성       | 로그, 메트릭, 추적의 상관관계     |
-| [week3](./week3) | 11/18     | 3장 관측 가능성의 시작, 프로메테우스   | Prometheus, Thanos         |
-| [week4](./week4) | 11/25     | 3장 관측 가능성의 시작, 프로메테우스   | Prometheus, Thanos         |
-| [week5](./week5) | 12/2      | 4장 오픈소스 관측 가능성, 그라파나    | Grafana LGTM 스택, Jaeger    |
-| [week6](./week6) | 12/9      | 4장 오픈소스 관측 가능성, 그라파나    | Grafana LGTM 스택, Jaeger     |
-| [week7](./week7) | 12/16     | 6장 관측 가능성의 표준, 오픈텔레메트리 | OpenTelemetry               |
-| [week8](./week8) | 12/23     | 6장 관측 가능성의 표준, 오픈텔레메트리 | OpenTelemetry               |
-
-
-## ✏️ How to PR
-1. `o11y-basic-study` 레포를 fork한다.
-2. fork한 레포에서 `week1` 브랜치를 생성한다.
-3. `./week1/suhyen` 폴더를 생성한 후 해당 주차에 공부한 내용을 커밋한다.
-4. PR 템플릿에 따라 PR을 작성하며 Reviewers로 `@suhyenim`을 태그한다.
-
-
-## 📑 Reference
-[Cloudclub-istio-skyline](https://github.com/ByeongHunKim/Cloudclub-istio-skyline)
-
-
-
+| ![sangylee](https://avatars.githubusercontent.com/u/52999093?v=4) | ![sangylee](https://avatars.githubusercontent.com/u/52999093?v=4) | ![sangylee](https://avatars.githubusercontent.com/u/52999093?v=4) | ![sangylee](https://avatars.githubusercontent.com/u/52999093?v=4) | ![sangylee](https://avatars.githubusercontent.com/u/52999093?v=4) | ![sangylee](https://avatars.githubusercontent.com/u/52999093?v=4) |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| [권지수](https://github.com/falconlee236) | [김강민](https://github.com/falconlee236) | [손관우](https://github.com/falconlee236) | [송여경](https://github.com/falconlee236) | [심재혁](https://github.com/falconlee236) | [이상윤(스터디장)](https://github.com/falconlee236) |
 
 ## 📚 Curriculum
 | 주차 | 내용 | 주제 |
