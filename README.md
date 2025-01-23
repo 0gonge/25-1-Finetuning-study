@@ -10,9 +10,9 @@
 
 
 ## 👥 Members
-| ![sangylee](https://avatars.githubusercontent.com/u/52999093?v=4) | ![sangylee](https://avatars.githubusercontent.com/u/52999093?v=4) | ![sangylee](https://avatars.githubusercontent.com/u/52999093?v=4) | ![sangylee](https://avatars.githubusercontent.com/u/52999093?v=4) | ![sangylee](https://avatars.githubusercontent.com/u/52999093?v=4) | ![sangylee](https://avatars.githubusercontent.com/u/52999093?v=4) |
+| ![Kwon-Jisu](https://avatars.githubusercontent.com/u/164470939?v=4) | ![withmochaa](https://avatars.githubusercontent.com/u/112954275?v=4) | ![nawkwoo](https://avatars.githubusercontent.com/u/92711477?v=4) | ![0gonge](https://avatars.githubusercontent.com/u/88605949?v=4) | ![simson0524](https://avatars.githubusercontent.com/u/116555114?v=4) | ![sangylee](https://avatars.githubusercontent.com/u/52999093?v=4) |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| [권지수](https://github.com/falconlee236) | [김강민](https://github.com/falconlee236) | [손관우](https://github.com/falconlee236) | [송여경](https://github.com/falconlee236) | [심재혁](https://github.com/falconlee236) | [이상윤(스터디장)](https://github.com/falconlee236) |
+| [권지수](https://github.com/Kwon-Jisu) | [김강민](https://github.com/withmochaa) | [손관우](https://github.com/nawkwoo) | [송여경](https://github.com/0gonge) | [심재혁](https://github.com/simson0524) | [이상윤(스터디장)](https://github.com/falconlee236) |
 
 ## 📚 Curriculum
 | 주차 | 내용 | 주제 |
